@@ -45,7 +45,7 @@ public class NetworkUtils {
     final static String PARAM_SORT = "sort";
     final static String sortBy = "latest";
     final static String apiKey = "apiKey";
-    final static String API = "4eacd48df11f47208cd8e29599f6b0f9";
+    final static String API = "";
 
     /**
      * Builds the URL used to query GitHub.
